@@ -10,4 +10,3 @@ osc(100, 0.01, 1.4)
 
 
 
-// font from documention is terminal_grotesque 
